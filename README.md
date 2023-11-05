@@ -3,7 +3,7 @@
 This is a project to facilitate the reading of PHP classes from a directory.
 
 ```
-composer install lyzframework/directory-class-reader
+composer require lyzframework/directory-class-reader
 ```
 
 #### It contains two classes for this purpose:
