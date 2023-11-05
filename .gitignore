@@ -3,3 +3,4 @@ composer.lock
 Dockerfile
 docker-compose.yml
 .phpunit.cache
+.idea
